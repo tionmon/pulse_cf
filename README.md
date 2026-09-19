@@ -7,7 +7,7 @@ Cloudflare-native uptime monitor, adapted from [tionmon/pulse](https://github.co
 - Cloudflare Workers for the API and probes
 - D1 for monitors, checks, settings, and sessions
 - Cron Trigger every minute
-- Workers Static Assets for the React interface
+- Workers Static Assets for the lightweight web interface
 
 ## Deploy
 
